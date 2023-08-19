@@ -11,5 +11,8 @@ public class ClassGitGitHub {
         int z = 5;
         System.out.println(x+y+z);
 
+        // Version 3
+        System.out.println(x+z);
+
     }
 }
