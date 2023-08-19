@@ -14,8 +14,5 @@ public class ClassGitGitHub {
         // Version 3
         System.out.println(x+z);
 
-        // Verson 4
-        System.out.println("version 4");
-
     }
 }
