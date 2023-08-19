@@ -14,5 +14,7 @@ public class ClassGitGitHub {
         // Version 3
         System.out.println(x+z);
 
+        // Version 6
+        System.out.println("new somethings");
     }
 }
